@@ -1,4 +1,4 @@
-#Suki 
+# Suki 
 Suki is a simple yet interactive AI-powered chatbot for Discord. Designed to respond to user prompts with insightful, engaging, or fun replies, Suki is your go-to conversational companion on any server.
 
 Features
